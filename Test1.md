@@ -9,5 +9,4 @@ t1t1t1t1t1t1t
 ### leve 3
 
 [[/uploads/Screen-Shot-2014-10-08-at-2.44.57-PM.png]]
-[[/uploads/gollum.jpg]]
 
