@@ -1,7 +1,4 @@
-A pic via URL
-*Is there supposed to be a picture here? Not seeing it.*
-
-![GitHub Logo](/images/HooplaIcon.png)
+![Hoopla Logo](/uploads/HooplaIcon.png)
 # Hoopla Engineering Blog #
 
 ## Product ##
