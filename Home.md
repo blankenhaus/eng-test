@@ -1,34 +1,36 @@
 A pic via URL
 *Is there supposed to be a picture here? Not seeing it.*
 
-# Product #
+![GitHub Logo](/images/HooplaIcon.png)
+# Hoopla Engineering Blog #
+
+## Product ##
 
 * Salesforce setup
 * Domain knowledge, i.e. object types
 * Links to Hoopla help
 * Overview of features
 
-# Dev Central #
+## Dev Central ##
 
 * Standalone App Designs
 * Developer Setup
 * Tools info
 
-# QA Central #
+## QA Central ##
 
 * Automation framework
 * Automation howtos
 * Links to test plans
 
-# Infrastructure #
+## Infrastructure ##
 
 * Supported environments
 * Continuous Integration
 * Deploy architecture
 
-# Process #
+## Process ##
 
 * Sprint planning process
 * Branching strategy
 * Deploy workflow
-*
